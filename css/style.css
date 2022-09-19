@@ -1,5 +1,7 @@
 header{
     background: linear-gradient(to bottom, blue, white);
+    position: absolute;
+    margin-left: 50%;
 }
 
 body {
